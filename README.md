@@ -1,2 +1,2 @@
 # raftfv
-Repository for formal verification of raft using P programming language.
+Repository for formal verification of RAFT using P programming language.
