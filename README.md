@@ -1,6 +1,6 @@
-# raftfv
+# Distributed systems formal verification
 
-Repository for formal verification of RAFT using P programming language.
+Repository for formal verification of Distributed systems using P programming language.
 
 # P installation
 
