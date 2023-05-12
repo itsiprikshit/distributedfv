@@ -1,0 +1,12 @@
+<Project>
+<ProjectName>TwoPhaseCommit</ProjectName>
+<InputFiles>
+	<PFile>./PSrc/</PFile>
+	<PFile>./PSpec/</PFile>
+	<PFile>./PTst/</PFile>
+	<PFile>./PForeign/</PFile>
+</InputFiles>
+<OutputDir>./PGenerated/</OutputDir>
+
+<IncludeProject>./Timer/Timer.pproj</IncludeProject>
+</Project>
